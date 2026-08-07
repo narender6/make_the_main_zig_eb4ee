@@ -1,0 +1,10 @@
+[build-system]
+requires=['setuptools']
+build-backend='setuptools.build_meta'
+[project]
+name='make_the_main_zig_eb4ee'
+version='0.1.0'
+py-modules=['make_the_main_zig_eb4ee']
+dependencies=[]
+[tool.setuptools]
+py-modules=['make_the_main_zig_eb4ee']
